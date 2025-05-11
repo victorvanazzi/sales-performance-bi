@@ -1,10 +1,8 @@
 # Análise de Desempenho de Vendas
 
-![](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)
-
-![](https://img.shields.io/badge/DAX-Avan%C3%A7ado-blue.svg)
-
-![](https://img.shields.io/badge/Status-Completo-brightgreen.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)
+![DAX](https://img.shields.io/badge/DAX-Avançado-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completo-brightgreen.svg)
 
 > Dashboard analítico para monitoramento de desempenho financeiro e segmentação estratégica de produtos para uma varejista global de eletrônicos.
 
