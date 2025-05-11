@@ -1,0 +1,12 @@
+# Ignorar arquivos de dados
+/data/
+
+# Ignorar imagens de visualização
+/visual/
+
+# Ignorar arquivos temporários do Power BI
+/powerbi/*.pbix
+
+# Ignorar arquivos do sistema
+*.DS_Store
+Thumbs.db
