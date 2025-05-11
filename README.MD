@@ -29,12 +29,13 @@ O dashboard desenvolvido visa auxiliar a varejista global de eletrônicos na tom
 
 ## Estrutura do Repositório
 
+```
 sales-performance-bi/
 │
-├── powerbi/
-│   └── [arquivos do projeto no Power BI]
+├── powerbi/                    # Arquivos do projeto no Power BI
 │
 └── README.md                    # Documentação do projeto
+```
 
 ## Estrutura do Dashboard
 
