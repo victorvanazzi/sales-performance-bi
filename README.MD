@@ -47,12 +47,16 @@ O dashboard está estruturado em duas páginas principais:
 - **Receita por Mercado:** Análise detalhada das receitas geradas por país/canal
 - **Top 5 Subcategorias:** Identificação das subcategorias de produtos mais rentáveis
 
+![Dashboard Página 1](visual/dashboard_sales_page-0001.jpg)
+
 ### 2. Dashboard de Produtos
 
 - **KPIs principais:** Receita Total, Lucro Bruto, Ticket Médio, Margem Bruta
 - **Segmentação Estratégica:** Classificação dos produtos em categorias estratégicas (Estrela, Nicho, Problema e Descontinuar)
 - **Ranking de Produtos:** Análise hierárquica detalhada por categoria e subcategoria
 - **Receita por Categoria e Subcategoria:** Exploração interativa detalhada do faturamento
+
+![Dashboard Página 2](visual/dashboard_sales_page-0002.jpg)
 
 ## Principais Insights
 
